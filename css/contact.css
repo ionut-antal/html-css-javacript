@@ -1,0 +1,9 @@
+form {
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+}
+
+input {
+  margin: 5px;
+}
